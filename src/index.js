@@ -1,1 +1,1 @@
-import './js/Team.js';
+import './js/app.js';
